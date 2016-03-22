@@ -1,15 +1,15 @@
 #“安农招生就业”UI设计图
 
-![](./images/1.jpg)
+![](./images/1.jpg width = "400" height = "710" alt="登录" align=center)
 
-![](./images/2.jpg)
+![](./images/2.jpg width = "400" height = "710" alt="登录" align=center)
 
-![](./images/3.jpg)
+![](./images/3.jpg width = "400" height = "710" alt="登录" align=center)
 
-![](./images/4.jpg)
+![](./images/4.jpg width = "400" height = "710" alt="登录" align=center)
 
-![](./images/5.jpg)
+![](./images/5.jpg width = "400" height = "710" alt="登录" align=center)
 
-![](./images/6.jpg)
+![](./images/6.jpg width = "400" height = "710" alt="登录" align=center)
 
-![](./images/7.jpg)
+![](./images/7.jpg width = "400" height = "710" alt="登录" align=center)
